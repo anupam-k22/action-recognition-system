@@ -10,9 +10,9 @@ The project demonstrates the application of embedded systems, artificial intelli
 ## Technology Used
 ### Software
 - Raspberry Pi Imager
-- PuTTy
+- PuTTy (SSH)
 - VNC Viewer
-- VS Code
+- VS Code (inside pi OS)
 - Raspbian OS (Legacy, 64-bit)
 ### Hardware
 - Raspberry Pi 3B+
