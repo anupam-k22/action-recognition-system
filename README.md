@@ -42,14 +42,6 @@ Action-Recognition-System/
 └── requirements.txt
 ```
 
-Action-Recognition-System/
-│
-├── images/
-│   └── Action-Recognition-System/
-│
-├── images/
-│   └── demo.png
-├── README.md
-└── main.py
-├── README.md
-└── main.py
+
+![Project Demo](Screenshot 2026-07-10 212815.png)
+
