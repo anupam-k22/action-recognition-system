@@ -1,7 +1,7 @@
 # action-recognition-system
 ## Overview
 
-This project is a real-time action recognition system designed to assist individuals with speech impairments by converting predefined hand gestures into spoken words. The system uses a Raspberry Pi, a USB camera, computer vision, and text-to-speech technology to recognize user actions and generate corresponding voice output.
+This project is a real-time action recognition system designed to assist individuals with speech impairments by converting predefined hand gestures into audible speech. The system uses a Raspberry Pi, a USB camera, computer vision, and text-to-speech technology to recognize user actions and generate corresponding voice output.
 
 The project demonstrates the application of embedded systems, artificial intelligence, and computer vision to create an affordable assistive communication device.
 
@@ -43,5 +43,4 @@ Action-Recognition-System/
 ```
 
 
-![Project Demo](Screenshot 2026-07-10 212815.png)
 
