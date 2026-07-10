@@ -41,3 +41,15 @@ Action-Recognition-System/
 ├── gui_window.py
 └── requirements.txt
 ```
+
+Action-Recognition-System/
+│
+├── images/
+│   └── Action-Recognition-System/
+│
+├── images/
+│   └── demo.png
+├── README.md
+└── main.py
+├── README.md
+└── main.py
