@@ -42,5 +42,15 @@ Action-Recognition-System/
 └── requirements.txt
 ```
 
+## Actions Recognised
+- "Hello everyone"
+- "I want to go there"
+- "I need help"
+- "I am hungry"
+- "I have headache"
+- "Good"
+- "Bad"
+- "I want water"
+- "I have chest pain"
 
 
