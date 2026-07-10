@@ -39,6 +39,5 @@ Action-Recognition-System/
 ├── action_classifier.py
 ├── tts_engine.py
 ├── gui_window.py
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
