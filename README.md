@@ -8,10 +8,37 @@ The project demonstrates the application of embedded systems, artificial intelli
 
 
 ## Technology Used
-- Real-time hand gesture recognition.
-- Live video capture using a USB camera
-- Human pose and hand landmark detection using MediaPipe
-- Gesture classification
-- Instant voice output using Text-to-Speech (TTS)
-- Graphical User Interface (GUI) for monitoring
-- Runs entirely on Raspberry Pi
+### Software
+- Raspberry Pi Imager
+- PuTTy
+- VNC Viewer
+- VS Code
+- Raspbian OS (Legacy, 64-bit)
+### Hardware
+- Raspberry Pi 3B+
+- USB WebCam
+- HDMI Monitor
+- Keyboard & Mouse
+- Bluetooth Speaker
+- SD Card (64GB)
+### Python Libraries
+- opencv
+- mediapipe
+- numpy
+- pyttsx3
+- tkinter
+- pillow
+
+## Project Structure
+```text
+Action-Recognition-System/
+│
+├── main.py
+├── camera_capture.py
+├── pose_detector.py
+├── action_classifier.py
+├── tts_engine.py
+├── gui_window.py
+├── requirements.txt
+└── README.md
+```
