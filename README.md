@@ -53,4 +53,6 @@ Action-Recognition-System/
 - "I want water"
 - "I have chest pain"
 
+  <img width="1918" height="1096" alt="Image" src="https://github.com/user-attachments/assets/54d509dd-f448-4c00-b0ad-216812370597" />
+
 
